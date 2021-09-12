@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-work-with-rest-api/static/css/main.ec44b518.chunk.css",
+    "main.js": "/react-work-with-rest-api/static/js/main.69067b0e.chunk.js",
+    "main.js.map": "/react-work-with-rest-api/static/js/main.69067b0e.chunk.js.map",
+    "runtime-main.js": "/react-work-with-rest-api/static/js/runtime-main.6405187c.js",
+    "runtime-main.js.map": "/react-work-with-rest-api/static/js/runtime-main.6405187c.js.map",
+    "static/js/2.2e602441.chunk.js": "/react-work-with-rest-api/static/js/2.2e602441.chunk.js",
+    "static/js/2.2e602441.chunk.js.map": "/react-work-with-rest-api/static/js/2.2e602441.chunk.js.map",
+    "index.html": "/react-work-with-rest-api/index.html",
+    "static/css/main.ec44b518.chunk.css.map": "/react-work-with-rest-api/static/css/main.ec44b518.chunk.css.map",
+    "static/js/2.2e602441.chunk.js.LICENSE.txt": "/react-work-with-rest-api/static/js/2.2e602441.chunk.js.LICENSE.txt",
+    "static/media/error.7d86105a.jpg": "/react-work-with-rest-api/static/media/error.7d86105a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6405187c.js",
+    "static/js/2.2e602441.chunk.js",
+    "static/css/main.ec44b518.chunk.css",
+    "static/js/main.69067b0e.chunk.js"
+  ]
+}
